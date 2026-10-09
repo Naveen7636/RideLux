@@ -1,0 +1,37 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Java / Maven build output
+**/target/
+**/bin/
+*.class
+
+# Node.js dependencies and builds
+**/node_modules/
+**/dist/
+**/dist-ssr/
+
+# Local configuration
+application-local.properties
+application-prod.properties
+
+# IDE files
+.vscode/
+**/.vscode/
+.idea/
+**/.settings/
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
