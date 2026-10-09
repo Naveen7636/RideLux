@@ -16,6 +16,20 @@ RideLux is a full-stack ride-booking application developed using Java, Spring Bo
 
 > Note: RideLux is a work in progress. Some features and administrative workflows may still require implementation.
 
+## Project Screenshots
+
+### Home Screen
+![RideLux Home Screen](screenshots/homescreen.png)
+
+### Explore Rides
+![Explore Rides](screenshots/explorerides.png)
+
+### Ride Booking
+![Ride Booking](screenshots/ride.png)
+
+### Ride Home Screen
+![Ride Home Screen](screenshots/ridehomescreen.png)
+
 ## Tech Stack
 
 ### Frontend
